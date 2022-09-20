@@ -253,7 +253,7 @@ async def help(client, message):
                 ]
             ]
         ),
-        reply_to_message_id=Message.id
+        reply_to_message_id=aMessage.id
     )
 
 
