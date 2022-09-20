@@ -5,6 +5,7 @@ import time
 import shutil
 import heroku3
 import requests
+import pyrogram
 
 from pyrogram import filters
 from pyrogram import Client as trojanz
